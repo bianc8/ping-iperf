@@ -1,0 +1,55 @@
+PING 88.80.187.84 (88.80.187.84) 901(929) bytes of data.
+909 bytes from 88.80.187.84: icmp_seq=1 ttl=46 time=74.9 ms
+909 bytes from 88.80.187.84: icmp_seq=2 ttl=46 time=122 ms
+909 bytes from 88.80.187.84: icmp_seq=3 ttl=46 time=62.7 ms
+909 bytes from 88.80.187.84: icmp_seq=4 ttl=46 time=74.2 ms
+909 bytes from 88.80.187.84: icmp_seq=5 ttl=46 time=81.3 ms
+909 bytes from 88.80.187.84: icmp_seq=6 ttl=46 time=109 ms
+909 bytes from 88.80.187.84: icmp_seq=7 ttl=46 time=70.0 ms
+909 bytes from 88.80.187.84: icmp_seq=8 ttl=46 time=107 ms
+909 bytes from 88.80.187.84: icmp_seq=9 ttl=46 time=68.0 ms
+909 bytes from 88.80.187.84: icmp_seq=10 ttl=46 time=104 ms
+909 bytes from 88.80.187.84: icmp_seq=11 ttl=46 time=142 ms
+909 bytes from 88.80.187.84: icmp_seq=12 ttl=46 time=100 ms
+909 bytes from 88.80.187.84: icmp_seq=13 ttl=46 time=60.6 ms
+909 bytes from 88.80.187.84: icmp_seq=14 ttl=46 time=96.7 ms
+909 bytes from 88.80.187.84: icmp_seq=15 ttl=46 time=135 ms
+909 bytes from 88.80.187.84: icmp_seq=16 ttl=46 time=101 ms
+909 bytes from 88.80.187.84: icmp_seq=17 ttl=46 time=140 ms
+909 bytes from 88.80.187.84: icmp_seq=18 ttl=46 time=87.9 ms
+909 bytes from 88.80.187.84: icmp_seq=19 ttl=46 time=129 ms
+909 bytes from 88.80.187.84: icmp_seq=20 ttl=46 time=86.4 ms
+909 bytes from 88.80.187.84: icmp_seq=21 ttl=46 time=126 ms
+909 bytes from 88.80.187.84: icmp_seq=22 ttl=46 time=64.6 ms
+909 bytes from 88.80.187.84: icmp_seq=23 ttl=46 time=66.4 ms
+909 bytes from 88.80.187.84: icmp_seq=24 ttl=46 time=64.6 ms
+909 bytes from 88.80.187.84: icmp_seq=25 ttl=46 time=61.0 ms
+909 bytes from 88.80.187.84: icmp_seq=26 ttl=46 time=77.8 ms
+909 bytes from 88.80.187.84: icmp_seq=27 ttl=46 time=68.8 ms
+909 bytes from 88.80.187.84: icmp_seq=28 ttl=46 time=74.0 ms
+909 bytes from 88.80.187.84: icmp_seq=29 ttl=46 time=65.9 ms
+909 bytes from 88.80.187.84: icmp_seq=30 ttl=46 time=90.0 ms
+909 bytes from 88.80.187.84: icmp_seq=31 ttl=46 time=112 ms
+909 bytes from 88.80.187.84: icmp_seq=32 ttl=46 time=71.2 ms
+909 bytes from 88.80.187.84: icmp_seq=33 ttl=46 time=70.2 ms
+909 bytes from 88.80.187.84: icmp_seq=34 ttl=46 time=59.1 ms
+909 bytes from 88.80.187.84: icmp_seq=35 ttl=46 time=106 ms
+909 bytes from 88.80.187.84: icmp_seq=36 ttl=46 time=68.1 ms
+909 bytes from 88.80.187.84: icmp_seq=37 ttl=46 time=65.1 ms
+909 bytes from 88.80.187.84: icmp_seq=38 ttl=46 time=61.7 ms
+909 bytes from 88.80.187.84: icmp_seq=39 ttl=46 time=102 ms
+909 bytes from 88.80.187.84: icmp_seq=40 ttl=46 time=139 ms
+909 bytes from 88.80.187.84: icmp_seq=41 ttl=46 time=100 ms
+909 bytes from 88.80.187.84: icmp_seq=42 ttl=46 time=81.2 ms
+909 bytes from 88.80.187.84: icmp_seq=43 ttl=46 time=69.3 ms
+909 bytes from 88.80.187.84: icmp_seq=44 ttl=46 time=58.2 ms
+909 bytes from 88.80.187.84: icmp_seq=45 ttl=46 time=66.8 ms
+909 bytes from 88.80.187.84: icmp_seq=46 ttl=46 time=132 ms
+909 bytes from 88.80.187.84: icmp_seq=47 ttl=46 time=75.2 ms
+909 bytes from 88.80.187.84: icmp_seq=48 ttl=46 time=131 ms
+909 bytes from 88.80.187.84: icmp_seq=49 ttl=46 time=89.7 ms
+909 bytes from 88.80.187.84: icmp_seq=50 ttl=46 time=60.6 ms
+
+--- 88.80.187.84 ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49065ms
+rtt min/avg/max/mdev = 58.211/88.570/141.667/25.607 ms
