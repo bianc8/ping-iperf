@@ -1,5 +1,0 @@
-PING 88.80.187.84 (88.80.187.84) 1476(1504) bytes of data.
-
---- 88.80.187.84 ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 49067ms
-
